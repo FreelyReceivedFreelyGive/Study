@@ -1,6 +1,6 @@
 # sample space
 
 $$
-a = b
+sample\ space =
 $$
 
