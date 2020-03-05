@@ -2,12 +2,8 @@
 
 * [Initial page](README.md)
 
-## Probability and Statistics <a id="mathematics"></a>
+## Mathematics
 
-* [sample space](mathematics/sample-space.md)
-* [Untitled](mathematics/untitled-1.md)
-
-## Linear Algebra
-
-* [Untitled](linear-algebra/untitled.md)
+* [Probability and Statistics](mathematics/probability-and-statistics/README.md)
+  * [sample space](mathematics/probability-and-statistics/sample-space.md)
 
