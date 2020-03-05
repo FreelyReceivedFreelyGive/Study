@@ -10,4 +10,6 @@ $$
 sample  space≝
 $$
 
-d
+$$
+\overset{\underset{\mathrm{def}}{}}{=}
+$$
