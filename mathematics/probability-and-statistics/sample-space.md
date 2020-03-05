@@ -14,3 +14,6 @@ $$
 \overset{\underset{\mathrm{def}}{}}{=}
 $$
 \\({e}^{i\pi}+1=0\\)
+$$
+10^2
+$$
