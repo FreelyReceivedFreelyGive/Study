@@ -13,3 +13,4 @@ $$
 $$
 \overset{\underset{\mathrm{def}}{}}{=}
 $$
+\\({e}^{i\pi}+1=0\\)
