@@ -1,2 +1,6 @@
 # sample space
 
+$$
+a = b
+$$
+
