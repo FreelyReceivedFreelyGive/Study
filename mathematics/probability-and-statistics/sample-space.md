@@ -10,3 +10,4 @@ $$
 sample  space≝
 $$
 
+d
