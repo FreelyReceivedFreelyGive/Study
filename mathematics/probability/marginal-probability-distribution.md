@@ -1,6 +1,12 @@
 ---
-description: 주변 확률 분포
+description: 표본 공간
 ---
 
-# marginal probability distribution
+# sample space
+
+통계적 실험에서 발생 가능한 모든 결과들의 집합
+
+$$
+a = b:=
+$$
 

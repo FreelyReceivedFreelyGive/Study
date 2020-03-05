@@ -1,2 +1,2 @@
-# Probability
+# Probability and Statistics
 
