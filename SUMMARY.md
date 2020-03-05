@@ -4,9 +4,8 @@
 
 ## Probability and Statistics <a id="mathematics"></a>
 
-* [Probability and Statistics](mathematics/probability/README.md)
-  * [sample space](mathematics/probability/marginal-probability-distribution.md)
-  * [Untitledasdfa](mathematics/probability/untitled.md)
+* [sample space](mathematics/sample-space.md)
+* [Untitled](mathematics/untitled-1.md)
 
 ## Linear Algebra
 
