@@ -10,6 +10,7 @@ $$
 sample  space≝
 $$
 
+<<<<<<< HEAD
 $$
 \overset{\underset{\mathrm{def}}{}}{=}
 $$
@@ -17,3 +18,5 @@ $$
 $$
 10^2
 $$
+=======
+>>>>>>> parent of bd38660... Update sample-space.md
